@@ -30,12 +30,12 @@ A responsive Password Generator web application built using React and Tailwind C
 
 ## 📸 Preview
 
-![Password Generator Preview](./password-generator.png)
+![Password Generator Preview](./screenshot/password-generator.png)
 
 ---
 ## 🌐 Live Demo
 
-[View Live Project]()
+[View Live Project](https://password-generator-71.vercel.app/)
 
 ---
 
