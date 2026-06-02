@@ -30,7 +30,7 @@ A responsive Password Generator web application built using React and Tailwind C
 
 ## 📸 Preview
 
-![Password Generator Preview](./screenshot/password-generator.png)
+![Password Generator Preview](./screenshot/password_generator.png)
 
 ---
 ## 🌐 Live Demo
